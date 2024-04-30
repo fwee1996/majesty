@@ -1,0 +1,17 @@
+user@RUSH-7UM6921JCU MINGW64 ~/workspace/c9/book-1/majesty
+$ node main.js
+Hail Her Majesty, Trinity Terry.
+Hail Her Majesty, Sydney Noh.
+Hail Her Majesty, Christina Ashworth.
+Hail Her Majesty, Aja Washington.
+Trinity Terry has tribute Silk
+Trinity Terry has tribute Ten gold coins
+Sydney Noh has tribute Barrel of wine
+Christina Ashworth has tribute Bushel of oranges
+Hail Her Majesty, Athena Perez.
+Hail Her Majesty, Charisse Ford.
+Hail Her Majesty, Jenna Solis.
+Hail Her Majesty, Elizabeth Mullins.
+Hail Her Majesty, Sujata Dev.
+Hail Her Majesty, Ramona Guiterrez.
+Hail Her Majesty, Monica Dinglehopper.
